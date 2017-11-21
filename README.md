@@ -7,10 +7,8 @@ This version will be powered by the backend of Runner Up and will have a custom 
 
 Amazefit currently runs a custom version of Android 5.01
 
-Link below wont work until I set up the site:
 
-
-[![Build Status](https://targetrunner.com/amazefit)](https://targetrunner.com/amazefit)
+[![Build Status(Under Construction)](https://targetrunner.com/amazefit)](https://targetrunner.com/amazefit)
 
 An open source run tracker for Android.
 
