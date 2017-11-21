@@ -1,7 +1,12 @@
-RunnerUp
+RunnerUp - Amazefit Edition
 ========
 
-[![Build Status](https://travis-ci.org/jonasoreland/runnerup.svg?branch=master)](https://travis-ci.org/jonasoreland/runnerup)
+A version of Runner Up designed for Amazefit watches
+This version will be powered by the backend of Runner Up and will have a custom GUI specifically modified to fit the Amazefit watch screen.
+
+
+
+[![Build Status](https://targetrunner.com/amazefit)](https://targetrunner.com/amazefit)
 
 An open source run tracker for Android.
 
