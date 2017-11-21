@@ -1,36 +1,31 @@
-RunnerUp - Amazefit Edition
+TargetRunner - Amazefit Edition
 ========
 
-A version of Runner Up designed for Amazefit watches
 
-This version will be powered by the backend of Runner Up and will have a custom GUI specifically modified to fit the Amazefit watch screen.
+A fork of of the Runner Up running app,  with a front end made specifically for Amazefit watches
 
-Amazefit currently runs a custom version of Android 5.01
+
+Amazefit currently runs a custom version of Android 5.01 (not wear) so will focus on that platform. I'll mostly be modifying the xml files for the user interface rather than messing around too much with the back end of the app.
 
 
 [![Build Status(Under Construction)](https://targetrunner.com/amazefit)](https://targetrunner.com/amazefit)
 
-An open source run tracker for Android.
 
-Inspiration Garmin 410, RunKeeper and Everywhere Run.
 
-## Features
+## Planned Features
 
 * GPL.
-* Mediocre GUI.
-* Highly configurable audio cues.
-* Messy code (my first android project even and first Java project in +10 years).
-* Automatic upload, download and feed updates from various providers including Digifit, Endomondo, Facebook, FunBeat, Garmin, GoogleFit, jogg.se, MapMyRun, Nike, RunKeeper, RunningAHEAD, Runtastic, Strava ([see here for details](SYNCHRONIZERS.md)).
-* Interval wizard (ala Garmin 410).
-* Download workouts from Garmin Connect.
+* Mediocre GUI (aimed at the Amazefit Smartwatch).
 * Great ideas for future features.
+* Audio Cues (distance, pace etc)
+*Sync to various platforms
+*Training plans
 
 ## Release
 Releases can be downloaded either:
 
-* on the [Play Store](https://play.google.com/store/apps/details?id=org.runnerup).
-* on [F-Droid](https://f-droid.org/repository/browse/?fdid=org.runnerup).
-* directly on [GitHub](https://github.com/jonasoreland/runnerup/releases/tag/v1.47).
+* on the [Direct APK Download](https://targetrunner.com/amazefit).
+
 
 
 ## Build
@@ -42,13 +37,13 @@ Depending on your IDE, see according documentation:
 
 ## Dependencies
 * [Ant Plugin](http://www.thisisant.com): Used to retrieve heart rate monitor data.
-* [Google Play Services API](http://developer.android.com/google/play-services/index.html): Used to communicate with wear device.
 * [GraphView](https://github.com/jjoe64/GraphView.git): Used to plot data in a nicely way.
 * [MapBox](https://mapbox.com): Used to display map to the user.
+* We will atttempt to remove the Google Play Services dependencies as this watch does not support Google Wear
 
 ## Contributing
 
-Patches, forks, pull requests, suggestions or harsh flame is welcome!
+Patches, forks, pull requests, suggestions or harsh flame is welcome! Please
 Please read the [contributing guidelines](CONTRIBUTING.md).
 
 ### How can I contribute?
