@@ -5,7 +5,9 @@ A version of Runner Up designed for Amazefit watches
 
 This version will be powered by the backend of Runner Up and will have a custom GUI specifically modified to fit the Amazefit watch screen.
 
-Amazefit currently runs a custom version Android 5.01
+Amazefit currently runs a custom version of Android 5.01
+
+Link below wont work until I set up the site:
 
 
 [![Build Status](https://targetrunner.com/amazefit)](https://targetrunner.com/amazefit)
