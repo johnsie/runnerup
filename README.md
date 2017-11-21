@@ -5,21 +5,44 @@ TargetRunner - Amazefit Edition
 A fork of of the Runner Up running app,  with a front end made specifically for Amazefit watches
 
 
-Amazefit currently runs a custom version of Android 5.01 (not wear) so will focus on that platform. I'll mostly be modifying the xml files for the user interface rather than messing around too much with the back end of the app.
+The Amazefit watch currently runs a custom version of Android 5.01 (not wear) so this project will focus on that platform. I'll mostly be modifying the xml files for the user interface rather than messing around too much with the back end of the app.
 
 
 [![Build Status(Under Construction)](https://targetrunner.com/amazefit)](https://targetrunner.com/amazefit)
 
 
 
+## Watch Features
+
+* Android 5.1
+* WIFI
+* GPS
+* Heart Monitor (Not sure if I'll have access to this data)
+* Bluetooth
+
+
+
+## Short Term Todos
+
+* Set up the project on development machine (Done)
+* See if apk will run out of the box on the amazefit watch (Todo)
+* Make any adjustments necessary for the apk to be able to run. Eg. remove any dependencies like Play Services (Todo)
+* Amend GUI to that something fits on the watch screen (Todo)
+* Set up basic website with project management tool (Todo)
+
+
+
+
 ## Planned Features
 
-* GPL.
-* Mediocre GUI (aimed at the Amazefit Smartwatch).
-* Great ideas for future features.
-* Audio Cues (distance, pace etc)
-*Sync to various platforms
-*Training plans
+* GPL (Based on Runner Up, which is designed for Phones and wear devices).
+* Even more mediocre GUI developed by myself and aimed at the Amazefit Smartwatch.
+* Audio Cues from Runner Up (distance, pace etc)
+* Sync to various platforms using Runner Ups back end.
+* Training plans (longterm goal)
+
+
+
 
 ## Release
 Releases can be downloaded either:
