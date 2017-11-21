@@ -37,7 +37,7 @@ The Amazefit watch currently runs a custom version of Android 5.01 (not wear) so
 
 * GPL (Based on Runner Up, which is designed for Phones and wear devices).
 * Even more mediocre GUI developed by myself and aimed at the Amazefit Smartwatch.
-* Audio Cues from Runner Up (distance, pace etc)
+* Audio Cues from Runner Up (distance, pace etc). May need to rewrite this if watch doesn't support text too speech. Would rather have human voice anyway.
 * Sync to various platforms using Runner Ups back end.
 * Training plans (longterm goal)
 
